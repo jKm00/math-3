@@ -1,2 +1,2 @@
 # Math 3
-Notes and exercises from mobile application course at NTNU
+Notes and exercises from math 3 course at NTNU
